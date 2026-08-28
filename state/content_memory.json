@@ -3296,5 +3296,34 @@
     "audience_level": "Beginner",
     "permalink": "https://www.instagram.com/p/Dcj211HFJf0/",
     "backfilled": false
+  },
+  {
+    "post_id": "17931817155374077",
+    "source_id": "thread_market_cap",
+    "published_at": "2026-08-28T11:33:58+00:00",
+    "style": "thread",
+    "topic": "Market cap vs share price — the mix-up that costs people real money",
+    "pillar": "markets_101",
+    "central_thesis": "Stock A trades at ₹40. Stock B trades at ₹4,000.",
+    "key_concepts": [
+      "Stock A trades at ₹40. Stock B trades at ₹4,000.\n\nAsk most new investors which company is 'bigger' and they'll point at B without thinking twice. They might be completely wrong.",
+      "A share price is just the cost of one slice of a company — and companies cut their pie into wildly different numbers of slices.\n\nWhat actually tells you the size of a company is its market capitalisation: the share price multiplied by the total number of shares that exist.",
+      "So the ₹40 stock, with 10 billion shares outstanding, is a ₹400 billion company.\n\nThe ₹4,000 stock, with 10 million shares outstanding, is a ₹40 billion company — ten times smaller, despite having a share price a hundred times higher. The price alone told you nothing true about size at all.",
+      "This mix-up quietly shapes bad decisions.\n\nA lower share price gets read as 'cheaper' or 'more room to grow,' when it's really just a smaller slice of whatever pie the company happens to be. Two companies can be identically valued with completely different-looking share prices, purely because of how many pieces each one chose to cut itself into.",
+      "Before comparing two stocks on price, check the market cap instead.\n\nIt's the number that actually tells you what the market thinks the whole company is worth — the share price on its own is just an artefact of how it was sliced."
+    ],
+    "caption_summary": "Stock A trades at ₹40. Stock B trades at ₹4,000.",
+    "hashtags": [
+      "#financialliteracy",
+      "#moneytips",
+      "#financialplaybook",
+      "#personalfinance",
+      "#stockmarket",
+      "#stockmarketbasics",
+      "#investingbasics"
+    ],
+    "audience_level": "Beginner",
+    "permalink": "https://www.instagram.com/p/DclQ9GzDe65/",
+    "backfilled": false
   }
 ]
